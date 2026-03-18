@@ -56,17 +56,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
-
+|       1200:12           |      1204:24             |
+|       1201:34           |      1205:68             |
+|       1202:12           |      1206:00             |
+|       1203:34           |                          |
 #### Manual Calculations
-
-(Add your calculation here)
+<img width="1180" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b4eb2d8-3842-427c-a44d-8553014242c8" />
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="655" height="447" alt="image" src="https://github.com/user-attachments/assets/a6660a65-8598-4173-b463-81d2fe914a35" />
 
 ## 2. SUBTRACTION
 
@@ -109,16 +109,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|      1200:12            |         1204:00          |
+|      1201:34            |         1205:00          |
+|      1202:12            |                          |
+|      1203:34            |                          |  
 #### Manual Calculations
-
-(Add your calculation here)
+<img width="1145" height="1280" alt="image" src="https://github.com/user-attachments/assets/63601c59-a1b2-435d-9bbf-4eda244dea03" />
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="640" height="401" alt="image" src="https://github.com/user-attachments/assets/d5ea2e81-6db5-4ad9-a167-1ef7b56d91cc" />
 
 ## 3. MULTIPLICATION
 
@@ -158,15 +160,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|     1200:12             |         1204:44          |
+|     1201:34             |         1205:51          |
+|     1202:12             |         1206:97          |
+|     1203:34             |         1207:0A          |
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="870" height="1279" alt="image" src="https://github.com/user-attachments/assets/5e1783f5-d170-40d2-989c-7713158adec1" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="631" height="396" alt="Screenshot 2026-01-31 090447" src="https://github.com/user-attachments/assets/68783374-db74-4442-ad35-5e09584de42c" />
 
 ## 4. DIVISION
 
