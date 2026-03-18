@@ -209,16 +209,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|      1200:12            |         1204:01          |
+|      1201:34            |         1205:00          |
+|      1202:12            |                          |
+|      1203:34            |                          |
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1189" height="1280" alt="image" src="https://github.com/user-attachments/assets/42c85b90-3b02-45f1-8313-44df1df04192" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
-
+<img width="634" height="379" alt="Screenshot 2026-01-31 092223" src="https://github.com/user-attachments/assets/77ac17a2-8fb9-4074-b5eb-8fb24dbd8fe7" />
 
 ## RESULT
 
